@@ -25,11 +25,16 @@
 
 ---
 ##  📦 Como Executar o Projeto
+
+
+### Iniciar controle de versão com git
+git init
+
 ### Clonar o repositório
 git clone https://github.com/guedesindev/Analise-de-Vendas-de-Video-Games.git
 
 ### Entrar na pasta
-cd nome-do-projeto
+cd Analise-de-Vendas-de-Video-Games
 
 ### Executar o notebook
 Caso use o jupyter notebook:
