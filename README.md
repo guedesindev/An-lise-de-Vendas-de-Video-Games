@@ -30,7 +30,6 @@ Gráfico de barras apresentando o volume de vendas de jogos por gênero. É um d
 ---
 ##  📦 Como Executar o Projeto
 
-
 ### Iniciar controle de versão com git
 git init
 
@@ -48,6 +47,7 @@ Caso tenha a extensão do jupyter no VsCode basta abrir o notebook no seu VsCode
 
 Caso utilize o Google Collab, basta fazer upload do notebook e abrir lá.
 
+---
 ⚠️ Para quem nunca usou o google collab, é muito semelhante ao jupter notebook necessário executar as células de cima para baixo para tornar as variáveis disponíveis.
 
 ---
