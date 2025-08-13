@@ -22,7 +22,10 @@
 
 ---
 ## 📷 Resultados e Visualizações
+
+Gráfico de barras apresentando o volume de vendas de jogos por gênero. É um dos gráficos que usei no projeto.
 ![gráfico de barras](./images/grafico_barras.png)
+
 
 ---
 ##  📦 Como Executar o Projeto
