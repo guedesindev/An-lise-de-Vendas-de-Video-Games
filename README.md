@@ -22,6 +22,7 @@
 
 ---
 ## 📷 Resultados e Visualizações
+![gráfico de barras](./images/grafico_barras.png)
 
 ---
 ##  📦 Como Executar o Projeto
