@@ -26,7 +26,7 @@
 ---
 ##  📦 Como Executar o Projeto
 ### Clonar o repositório
-git clone https://github.com/seuusuario/nome-do-projeto.git
+git clone https://github.com/guedesindev/Analise-de-Vendas-de-Video-Games.git
 
 ### Entrar na pasta
 cd nome-do-projeto
